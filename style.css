@@ -1,3 +1,6 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
 body{
     background-color: white;
 }
@@ -6,4 +9,19 @@ body{
 }
 .h1{
     text-align: left;
+}
+.Page1{
+    border-style: none;
+}
+.Page2{
+    border-style: none;
+}
+.Page3{
+    border-style: none;
+}
+.Page4{
+    border-style: none;
+}
+.Page5{
+    border-style: none;
 }
