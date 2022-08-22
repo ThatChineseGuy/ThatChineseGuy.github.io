@@ -1,6 +1,7 @@
 *{
     font-family: sans-serif;
-    background-color: #f8f8f8;
+    background-color: #221c35;
+    color: #f5f5f5;
 }
 p{
     margin-left: 80px;
@@ -12,26 +13,21 @@ p{
 .h1{
     text-align: left;
     margin-top: 500px;
-   
 }
 .Page1{
     margin-top: 500px;
-   
     border-style: none;
 }
 .Page2{
     margin-top: 500px;
-    
     border-style: none;
 }
 .Page3{
     margin-top: 500px;
-    
     border-style: none;
 }
 .Page4{
     margin-top: 500px;
-    
     border-style: none;
 }
 .Page5{
